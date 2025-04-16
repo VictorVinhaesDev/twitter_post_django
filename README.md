@@ -1,5 +1,5 @@
 # Twitter Post
-A website where you have a registration system, and can post your "tweets", a photo with a description.
+A website where you have a registration system, and can post your "tweets", a photo with a description.Each user has their own ID and only you can change or delete your tweets.
 
 
 ## Video
